@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34.543" height="34.504" viewBox="0 0 34.543 34.504">
+  <g id="shopping-cart" transform="translate(0.289 -18.86)">
+    <g id="Group_787" data-name="Group 787" transform="translate(11.242 47.075)">
+      <g id="Group_786" data-name="Group 786">
+        <path id="Path_962" data-name="Path 962" d="M172.676,402.828a3.02,3.02,0,1,0,3.02,3.02A3.023,3.023,0,0,0,172.676,402.828Zm0,4.353a1.334,1.334,0,1,1,1.334-1.334A1.335,1.335,0,0,1,172.676,407.181Z" transform="translate(-169.656 -402.828)" fill="#f9a22a" stroke="#f9a22a" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Group_789" data-name="Group 789" transform="translate(21.709 47.075)">
+      <g id="Group_788" data-name="Group 788">
+        <path id="Path_963" data-name="Path 963" d="M330.621,402.828a3.02,3.02,0,1,0,3.02,3.02A3.023,3.023,0,0,0,330.621,402.828Zm0,4.353a1.334,1.334,0,1,1,1.334-1.334A1.335,1.335,0,0,1,330.621,407.181Z" transform="translate(-327.601 -402.828)" fill="#f9a22a" stroke="#f9a22a" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Group_791" data-name="Group 791" transform="translate(12.599 29.676)">
+      <g id="Group_790" data-name="Group 790">
+        <path id="Path_964" data-name="Path 964" d="M203.92,165.755H191.839a.843.843,0,0,0,0,1.686H203.92a.843.843,0,1,0,0-1.686Z" transform="translate(-190.996 -165.755)" fill="#f9a22a" stroke="#f9a22a" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Group_793" data-name="Group 793" transform="translate(13.259 34.378)">
+      <g id="Group_792" data-name="Group 792">
+        <path id="Path_965" data-name="Path 965" d="M212.411,231.035H201.645a.843.843,0,0,0,0,1.686h10.766a.843.843,0,0,0,0-1.686Z" transform="translate(-200.802 -231.035)" fill="#f9a22a" stroke="#f9a22a" stroke-width="0.5"/>
+      </g>
+    </g>
+    <g id="Group_795" data-name="Group 795" transform="translate(0 19.114)">
+      <g id="Group_794" data-name="Group 794" transform="translate(0)">
+        <path id="Path_966" data-name="Path 966" d="M33.624,25.747a1.608,1.608,0,0,0-1.294-.678h-26L5.8,22.26a1.815,1.815,0,0,0-.97-1.317L1.167,19.19a.807.807,0,0,0-1.1.478A.958.958,0,0,0,.5,20.878l3.664,1.753L8.205,44.242a1.725,1.725,0,0,0,1.635,1.469h20a.924.924,0,0,0,0-1.84h-20l-.491-2.629H29.995a1.725,1.725,0,0,0,1.635-1.469l2.335-12.492A1.974,1.974,0,0,0,33.624,25.747ZM29.995,39.4H9.006L6.671,26.91H32.33Z" transform="translate(0 -19.114)" fill="#f9a22a" stroke="#f9a22a" stroke-width="0.5"/>
+      </g>
+    </g>
+  </g>
+</svg>
